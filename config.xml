@@ -20,7 +20,7 @@
    
 <gap:plugin name="com.phonegap.plugins.childbrowser" />
         
-   
+   < preference name = "EnableViewportScale" value="true" / >
 
 	
 </widget>
